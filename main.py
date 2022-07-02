@@ -394,7 +394,7 @@ f1_btn_back.grid(row=9, column=4)
 # Labels
 f2_title = Label(frame2, text="Import new data to Ordered Parts Database:", font=APSbold)
 f2_title.place(x=170, y=30)
-f2_label2 = Label(frame2, text="Please select xlsx file that has no headers and the columns are: \n"
+f2_label2 = Label(frame2, text="Please select xlsx file with a headers where the columns are: \n"
                                "SKU | Name | Category | WSS | LOT#",
                   font=APSfont, justify=CENTER)
 f2_label2.place(x=140, y=70)

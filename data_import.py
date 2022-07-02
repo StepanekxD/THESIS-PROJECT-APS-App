@@ -80,7 +80,7 @@ def select_db_cat(category):
 
 
 # Manually create databases:
-# convert_to_csv()
+# convert_to_csv('C:/Users/Stepan VENCL/Desktop/ItemList.xlsx')
 # create_new_db()
 # fill_db()
 # create_wss_db()

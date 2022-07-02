@@ -1,0 +1,4 @@
+Item Name,Quantity,Order ID,SKU,Supplier lot#,Category,Storing spot
+Office paper,43,APS-2022-06-25-OR-2,FI00012,1771914070,OFFICE,in-ST
+Ink cartridge,23,APS-2022-06-25-OR-2,FI00013,2152185755,OFFICE,in-ST
+Toilet paper,55,APS-2022-06-25-OR-2,OT0001,4433815865,OTHER,in-ST
